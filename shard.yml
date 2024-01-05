@@ -1,0 +1,9 @@
+name: gpiod
+version: 0.1.0
+
+authors:
+  - Alex Clink
+
+crystal: '>= 1.10.1'
+
+license: MIT
